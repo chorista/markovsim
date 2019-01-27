@@ -1,1 +1,1 @@
-# markovsim
+Markov source simulator with NumPy.
